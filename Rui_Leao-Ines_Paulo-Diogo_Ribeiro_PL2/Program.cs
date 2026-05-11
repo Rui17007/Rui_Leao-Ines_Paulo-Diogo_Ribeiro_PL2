@@ -16,7 +16,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Login());
         }
     }
 }
