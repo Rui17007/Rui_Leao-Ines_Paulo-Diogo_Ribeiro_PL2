@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|c:\\projetoda_mds\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|c:\\projetoda_mds\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\registarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\registarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\ishopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\ishopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs [Design]",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:25:36.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registar.cs [Design]",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs [Design]",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T14:31:01.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Program.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Program.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Program.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:23:27.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistarController.cs",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T13:21:41.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registar.cs",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwCwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:17:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IShopping.cs",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\IShopping.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\IShopping.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\IShopping.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\IShopping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:54:23.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:47:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:41:15.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs [Design]",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:16:17.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "ToolTip": "C:\\ProjetoDA_MDS\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA/wDgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T16:15:15.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
