@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
 {
     public class RegistarController
@@ -14,7 +15,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
         {
             using (var db = new IShopping())
             {
-                // Se existir algum utilizador com o username ou o email na base de dados irá apresentar uma messagebox a indicar o erro
+               
                 if (db.Utilizadores.Any(u => u.NomeUtilizador == nomeUtilizador || u.Email == email))
                 {
                     MessageBox.Show("Username ou Email já estão em uso!", "Erro");

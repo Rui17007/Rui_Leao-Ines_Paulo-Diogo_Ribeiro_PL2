@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views;
+using Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Models;
 
 namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
 {
@@ -45,8 +46,8 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
             string password = txtPassword.Text;
 
             LoginController loginController = new LoginController();
-            bool sucesso = loginController.login(nome, password);
-            if (sucesso)
+            Utilizador utilizador = loginController.login(nome, password);
+            if (utilizador != null)
             {
                 MenuPrincipal form = new MenuPrincipal();
                 form.ShowDialog();

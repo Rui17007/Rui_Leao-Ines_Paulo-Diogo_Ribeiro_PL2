@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -16,6 +17,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<IShopping>());
             Application.Run(new Login());
         }
     }

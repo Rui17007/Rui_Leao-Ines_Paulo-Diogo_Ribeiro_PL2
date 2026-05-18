@@ -16,5 +16,21 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            TipoArtigo form = new TipoArtigo();
+            this.Hide();
+            this.Close();
+            form.ShowDialog();
+        }
+
+        private void btnArtigo_Click(object sender, EventArgs e)
+        {
+            Artigo form = new Artigo();
+            this.Hide();
+            this.Close();
+            form.ShowDialog();
+        }
     }
 }

@@ -14,3 +14,6 @@ C:\Users\Rui17\source\repos\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_
 C:\Users\Rui17\source\repos\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Login.resources
 C:\Users\Rui17\source\repos\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Registar.resources
 C:\Users\Rui17\source\repos\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao.113B4352.Up2Date
+C:\Users\Rui17\source\repos\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.MenuPrincipal.resources
+C:\Users\Rui17\source\repos\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.TipoArtigo.resources
+C:\Users\Rui17\source\repos\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Artigo.resources
