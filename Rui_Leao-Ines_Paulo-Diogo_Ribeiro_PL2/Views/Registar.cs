@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -13,6 +14,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
 {
     public partial class Registar : Form
     {
+        private RSACryptoServiceProvider rsa;
         public Registar()
         {
             InitializeComponent();
@@ -28,8 +30,18 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
             string nomeUtilizador= txtUsername.Text;
             string nome = txtNome.Text;
             string email = txtEmail.Text;
-            string password = txtPassword.Text;
+            string pass = txtPassword.Text;
             string nif = txtNif.Text;
+
+            string keyS = pass;
+            byte[] dados = Encoding.UTF8.GetBytes(keyS);
+            rsa = new RSACryptoServiceProvider();
+            string publicKey = rsa.ToXmlString(false);
+
+            //cifrar
+            byte[] dadosEnc = rsa.Encrypt(dados, true);
+            string password = Convert.ToBase64String(dadosEnc);
+            string publickey = rsa.ToXmlString(false);
 
             if (string.IsNullOrEmpty(txtUsername.Text) || string.IsNullOrEmpty(txtNome.Text) || string.IsNullOrEmpty(txtEmail.Text) || string.IsNullOrEmpty(txtPassword.Text) || string.IsNullOrEmpty(txtNif.Text))
             {
@@ -47,9 +59,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                 this.Close();
             }
             else
-            {
                 MessageBox.Show("Dados invalidos");
-            }
         }
 
         private void btnVoltar_Click(object sender, EventArgs e)

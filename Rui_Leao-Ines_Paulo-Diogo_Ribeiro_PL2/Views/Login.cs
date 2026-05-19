@@ -49,14 +49,12 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
             if (sucesso)
             {
                 MenuPrincipal form = new MenuPrincipal();
+                this.Hide();
                 form.ShowDialog();
                 this.Close();
             }
             else
-            {
                 MessageBox.Show("Dados invalidos");
-
-            }
         }
 
         private void btnRegistar_Click(object sender, EventArgs e)
