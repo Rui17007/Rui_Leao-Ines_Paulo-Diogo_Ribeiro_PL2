@@ -39,7 +39,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
+            this.labelComprimento = new System.Windows.Forms.Label();
             this.button9 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -74,6 +74,7 @@
             this.btnOrcamentos.TabIndex = 0;
             this.btnOrcamentos.Text = "Orçamentos";
             this.btnOrcamentos.UseVisualStyleBackColor = true;
+            this.btnOrcamentos.Click += new System.EventHandler(this.btnOrcamentos_Click);
             // 
             // btnEstatisticas
             // 
@@ -156,15 +157,16 @@
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(763, 150);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
-            // label1
+            // labelComprimento
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(15, 24);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(553, 16);
-            this.label1.TabIndex = 7;
-            this.label1.Text = "Bem vindo/a. Tens 3 compras em aberto este mês. Orçamento disponivel: xxx.xx€ de " +
+            this.labelComprimento.AutoSize = true;
+            this.labelComprimento.Location = new System.Drawing.Point(15, 24);
+            this.labelComprimento.Name = "labelComprimento";
+            this.labelComprimento.Size = new System.Drawing.Size(553, 16);
+            this.labelComprimento.TabIndex = 7;
+            this.labelComprimento.Text = "Bem vindo/a. Tens 3 compras em aberto este mês. Orçamento disponivel: xxx.xx€ de " +
     "xxx.xx€";
             // 
             // button9
@@ -175,6 +177,7 @@
             this.button9.TabIndex = 8;
             this.button9.Text = "Terminar Sessão";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // MenuPrincipal
             // 
@@ -182,11 +185,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button9);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.labelComprimento);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "MenuPrincipal";
             this.Text = "MenuPrincipal";
+            this.Load += new System.EventHandler(this.MenuPrincipal_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
@@ -207,7 +211,7 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label labelComprimento;
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button btnOrcamentos;
     }

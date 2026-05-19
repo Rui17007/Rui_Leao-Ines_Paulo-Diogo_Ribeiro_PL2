@@ -38,17 +38,17 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
 
             dataGridView1.DataSource =controller.Listar();
 
+            dataGridView1.Columns["Id"].Visible = false;
+
             dataGridView1.Columns["TipoArtigoId"].Visible = false;
 
         }
 
         private void CarregarTipos()
         {
-            ArtigoController controller =
-                new ArtigoController();
+            ArtigoController controller =new ArtigoController();
 
-            comboTipoArtigo.DataSource =
-                controller.ListarTipos();
+            comboTipoArtigo.DataSource =controller.ListarTipos();
 
             comboTipoArtigo.DisplayMember = "Nome";
 

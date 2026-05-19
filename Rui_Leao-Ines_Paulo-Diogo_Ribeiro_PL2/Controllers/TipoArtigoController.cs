@@ -10,15 +10,23 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
 {
     internal class TipoArtigoController
     {
-        public List<TipoArtigo> Listar()
+        public object Listar()
         {
             using (var db = new IShopping())
             {
                 return db.TipoArtigos
                     .Include(t => t.Artigos)
+                    .Select(t => new
+                    {
+                        t.Id,
+                        t.Nome,
+                        Quantidade = t.Artigos.Count()
+                    })
                     .ToList();
             }
         }
+
+
         public bool Adicionar(string nome)
         {
             using (var db = new IShopping())

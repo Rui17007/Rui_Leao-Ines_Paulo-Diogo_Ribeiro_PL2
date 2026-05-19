@@ -34,10 +34,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
 
             dataGridView1.DataSource = controller.Listar();
 
-            if (dataGridView1.Columns["Artigos"] != null)
-            {
-                dataGridView1.Columns["Artigos"].Visible = false;
-            }
+            dataGridView1.Columns["Id"].Visible = false;
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -171,11 +168,24 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
             if (e.RowIndex >= 0)
             {
                 DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
-
                 txtId.Text = row.Cells["Id"].Value.ToString();
-
                 txtNome.Text = row.Cells["Nome"].Value.ToString();
             }
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox3_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

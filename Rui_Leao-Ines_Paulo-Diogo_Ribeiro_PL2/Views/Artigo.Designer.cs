@@ -42,11 +42,11 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.comboFiltros = new System.Windows.Forms.ComboBox();
             this.textPesquisar = new System.Windows.Forms.TextBox();
             this.btnNovo = new System.Windows.Forms.Button();
             this.btnApagar = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
-            this.comboFiltros = new System.Windows.Forms.ComboBox();
             this.groupBox3.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -201,6 +201,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Acesso rápido";
             // 
+            // comboFiltros
+            // 
+            this.comboFiltros.FormattingEnabled = true;
+            this.comboFiltros.Location = new System.Drawing.Point(270, 21);
+            this.comboFiltros.Name = "comboFiltros";
+            this.comboFiltros.Size = new System.Drawing.Size(111, 24);
+            this.comboFiltros.TabIndex = 11;
+            this.comboFiltros.SelectedIndexChanged += new System.EventHandler(this.comboFiltros_SelectedIndexChanged);
+            // 
             // textPesquisar
             // 
             this.textPesquisar.Location = new System.Drawing.Point(551, 25);
@@ -238,15 +247,6 @@
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
             this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
-            // 
-            // comboFiltros
-            // 
-            this.comboFiltros.FormattingEnabled = true;
-            this.comboFiltros.Location = new System.Drawing.Point(270, 21);
-            this.comboFiltros.Name = "comboFiltros";
-            this.comboFiltros.Size = new System.Drawing.Size(111, 24);
-            this.comboFiltros.TabIndex = 11;
-            this.comboFiltros.SelectedIndexChanged += new System.EventHandler(this.comboFiltros_SelectedIndexChanged);
             // 
             // Artigo
             // 

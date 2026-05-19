@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Controllers\ArtigoController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\OrcamentoController.cs" />
     <Compile Include="Controllers\RegistarController.cs" />
     <Compile Include="Controllers\TipoArtigoController.cs" />
     <Compile Include="IShopping.cs" />
@@ -67,6 +68,7 @@
     <Compile Include="Models\ItemNaoPrevisto.cs" />
     <Compile Include="Models\ItemPrevisto.cs" />
     <Compile Include="Models\Orcamento.cs" />
+    <Compile Include="Models\Sessao.cs" />
     <Compile Include="Models\TipoArtigo.cs" />
     <Compile Include="Models\Utilizador.cs" />
     <Compile Include="Views\Artigo.cs">
@@ -88,6 +90,12 @@
     </Compile>
     <Compile Include="Views\MenuPrincipal.Designer.cs">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Orcamento.Designer.cs">
+      <DependentUpon>Orcamento.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\Registar.cs">
       <SubType>Form</SubType>
@@ -118,6 +126,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Views\MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Orcamento.resx">
+      <DependentUpon>Orcamento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Registar.resx">
       <DependentUpon>Registar.cs</DependentUpon>

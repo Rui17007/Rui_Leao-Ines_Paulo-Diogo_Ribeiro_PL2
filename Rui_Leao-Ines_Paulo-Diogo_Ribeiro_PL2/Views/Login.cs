@@ -49,7 +49,9 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
             Utilizador utilizador = loginController.login(nome, password);
             if (utilizador != null)
             {
-                MenuPrincipal form = new MenuPrincipal();
+                Sessao.UtilizadorAtual = utilizador;
+                MenuPrincipal form = new MenuPrincipal(utilizador);
+                this.Hide();
                 form.ShowDialog();
                 this.Close();
             }
