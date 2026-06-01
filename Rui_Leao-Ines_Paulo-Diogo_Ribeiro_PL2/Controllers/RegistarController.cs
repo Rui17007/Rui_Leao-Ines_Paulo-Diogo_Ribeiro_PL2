@@ -1,27 +1,34 @@
 ﻿using Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Models;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-
 
 namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
 {
     public class RegistarController
     {
-        public bool RegistarUtilizador(string nomeUtilizador, string nome, string password, string nif, string email)
+        public bool RegistarUtilizador(
+            string nomeUtilizador,
+            string nome,
+            string password,
+            string nif,
+            string email)
         {
             using (var db = new IShopping())
             {
-               
-                if (db.Utilizadores.Any(u => u.NomeUtilizador == nomeUtilizador || u.Email == email))
+                // Verificar se username ou email já existem
+                if (db.Utilizadores.Any(u =>
+                    u.NomeUtilizador == nomeUtilizador ||
+                    u.Email == email))
                 {
-                    MessageBox.Show("Username ou Email já estão em uso!", "Erro");
+                    MessageBox.Show(
+                        "Username ou Email já estão em uso!",
+                        "Erro"
+                    );
+
                     return false;
                 }
 
+                // Criar utilizador
                 var NovoUtilizador = new Utilizador
                 {
                     Email = email,
@@ -31,11 +38,14 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
                     Nif = nif
                 };
 
+                // Guardar utilizador
                 db.Utilizadores.Add(NovoUtilizador);
                 db.SaveChanges();
+
                 MessageBox.Show("Conta criada com sucesso");
+
                 return true;
             }
-         }
+        }
     }
 }

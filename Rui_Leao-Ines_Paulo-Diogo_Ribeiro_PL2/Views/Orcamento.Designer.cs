@@ -50,7 +50,6 @@
             this.label5 = new System.Windows.Forms.Label();
             this.btnNovo = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
-            this.btnVerHistorico = new System.Windows.Forms.Button();
             this.splitter1 = new System.Windows.Forms.Splitter();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
@@ -237,7 +236,6 @@
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.btnNovo);
             this.groupBox1.Controls.Add(this.btnEditar);
-            this.groupBox1.Controls.Add(this.btnVerHistorico);
             this.groupBox1.Controls.Add(this.splitter1);
             this.groupBox1.Location = new System.Drawing.Point(14, 43);
             this.groupBox1.Name = "groupBox1";
@@ -250,7 +248,7 @@
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(650, 27);
+            this.comboBox1.Location = new System.Drawing.Point(461, 28);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 24);
             this.comboBox1.TabIndex = 5;
@@ -259,7 +257,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(580, 31);
+            this.label5.Location = new System.Drawing.Point(391, 32);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(66, 16);
             this.label5.TabIndex = 4;
@@ -277,7 +275,7 @@
             // 
             // btnEditar
             // 
-            this.btnEditar.Location = new System.Drawing.Point(381, 24);
+            this.btnEditar.Location = new System.Drawing.Point(194, 24);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(181, 28);
             this.btnEditar.TabIndex = 3;
@@ -285,21 +283,11 @@
             this.btnEditar.UseVisualStyleBackColor = true;
             this.btnEditar.Click += new System.EventHandler(this.btnVerHistorico_Click);
             // 
-            // btnVerHistorico
-            // 
-            this.btnVerHistorico.Location = new System.Drawing.Point(194, 24);
-            this.btnVerHistorico.Name = "btnVerHistorico";
-            this.btnVerHistorico.Size = new System.Drawing.Size(181, 28);
-            this.btnVerHistorico.TabIndex = 3;
-            this.btnVerHistorico.Text = "Ver Histórico de Alterações";
-            this.btnVerHistorico.UseVisualStyleBackColor = true;
-            this.btnVerHistorico.Click += new System.EventHandler(this.btnVerHistorico_Click);
-            // 
             // splitter1
             // 
             this.splitter1.Location = new System.Drawing.Point(3, 18);
             this.splitter1.Name = "splitter1";
-            this.splitter1.Size = new System.Drawing.Size(571, 41);
+            this.splitter1.Size = new System.Drawing.Size(378, 41);
             this.splitter1.TabIndex = 1;
             this.splitter1.TabStop = false;
             // 
@@ -365,7 +353,6 @@
         private System.Windows.Forms.ProgressBar progressbar;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnNovo;
-        private System.Windows.Forms.Button btnVerHistorico;
         private System.Windows.Forms.Splitter splitter1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox textDataAlteracao;

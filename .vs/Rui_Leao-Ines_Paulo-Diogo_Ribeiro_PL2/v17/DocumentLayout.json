@@ -3,11 +3,91 @@
   "WorkspaceRootPath": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\ishopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\ishopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\itemprevisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\itemprevisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\registarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\registarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\tipoartigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\tipoartigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|c:\\users\\rui17\\source\\repos\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\artigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\artigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\tipoartigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\tipoartigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\itemnaoprevisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\itemnaoprevisto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,72 +95,8 @@
       "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\tipoartigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\tipoartigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\artigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\artigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\tipoartigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\tipoartigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\tipoartigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\tipoartigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\models\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\views\\artigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\registarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1C42C-793C-4AA9-ABC7-17BC426B53A8}|Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj|solutionrelative:rui_leao-ines_paulo-diogo_ribeiro_pl2\\controllers\\registarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,172 +118,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Sessao.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Sessao.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Sessao.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Sessao.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Sessao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:44:11.249Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrcamentoController.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\OrcamentoController.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\OrcamentoController.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\OrcamentoController.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\OrcamentoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAATAAAAAAAAAA==",
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\AppDbInitializer.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\AppDbInitializer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwKYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:29:11.53Z",
+              "WhenOpened": "2026-06-01T13:49:49.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Utilizador.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T17:23:49.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAYwE8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T16:17:03.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "TipoArtigoController.cs",
               "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\TipoArtigoController.cs",
               "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\TipoArtigoController.cs",
               "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\TipoArtigoController.cs",
               "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\TipoArtigoController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwFIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T15:02:24.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Artigo.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Artigo.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Artigo.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Artigo.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Artigo.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:56:32.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Artigo.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Artigo.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Artigo.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Artigo.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Artigo.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAIwEcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:55:12.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TipoArtigo.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\TipoArtigo.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\TipoArtigo.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\TipoArtigo.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\TipoArtigo.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:53:04.742Z"
+              "WhenOpened": "2026-06-01T13:13:14.514Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwD0AAAANAAAAAAAAAA==",
+              "Title": "OrcamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\OrcamentoController.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\OrcamentoController.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\OrcamentoController.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\OrcamentoController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:41:19.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Orcamento.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
-              "ViewState": "AgIAAFMBAAAAAAAAAAAkwPcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:37:04.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Orcamento.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs [Design]",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:34:24.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Orcamento.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Orcamento.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Orcamento.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Orcamento.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Orcamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:33:02.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:22:42.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RegistarController.cs",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:22:40.663Z"
+              "WhenOpened": "2026-06-01T13:13:02.031Z"
             },
             {
               "$type": "Document",
@@ -277,64 +161,247 @@
               "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\ArtigoController.cs",
               "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\ArtigoController.cs",
               "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\ArtigoController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAIwIAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwIoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:22:39.813Z"
+              "WhenOpened": "2026-06-01T13:12:54.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Sessao.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Sessao.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Sessao.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Sessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:12:31.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Orcamento.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Orcamento.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Orcamento.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Orcamento.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Orcamento.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:12:27.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemPrevisto.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\ItemPrevisto.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\ItemPrevisto.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\ItemPrevisto.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\ItemPrevisto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:12:23.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemNaoPrevisto.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\ItemNaoPrevisto.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\ItemNaoPrevisto.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\ItemNaoPrevisto.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\ItemNaoPrevisto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:12:18.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Item.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Item.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:12:13.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Compra.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Compra.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T13:11:59.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:54:58.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registar.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAA3wHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:54:54.165Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "RegistarController.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\RegistarController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:54:45.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA6wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:54:35.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShopping.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\IShopping.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\IShopping.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\IShopping.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\IShopping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:49:11.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Program.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Program.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Program.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:49:10.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Utilizador.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:49:05.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TipoArtigo.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\TipoArtigo.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\TipoArtigo.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\TipoArtigo.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\TipoArtigo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:49:04.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Artigo.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Artigo.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Artigo.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Artigo.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Models\\Artigo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:49:02.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Orcamento.cs",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAewHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:28:03.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "TipoArtigo.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\TipoArtigo.cs",
               "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\TipoArtigo.cs",
               "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\TipoArtigo.cs [Design]",
               "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\TipoArtigo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:22:08.567Z"
+              "WhenOpened": "2026-05-25T14:10:35.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Registar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
               "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs",
               "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs [Design]",
               "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Registar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:22:07.962Z"
+              "WhenOpened": "2026-05-25T14:10:34.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MenuPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs [Design]",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\MenuPrincipal.cs [Design]",
+              "DocumentIndex": 22,
+              "Title": "Orcamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
+              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs",
+              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs [Design]",
+              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Orcamento.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:22:07.375Z"
+              "WhenOpened": "2026-05-25T14:09:01.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
               "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs",
               "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs [Design]",
               "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:22:05.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Artigo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Artigo.cs",
-              "RelativeDocumentMoniker": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Artigo.cs",
-              "ToolTip": "C:\\Users\\Rui17\\source\\repos\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Artigo.cs [Design]",
-              "RelativeToolTip": "Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\\Views\\Artigo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:22:06.018Z"
+              "WhenOpened": "2026-05-25T14:05:20.732Z"
             }
           ]
         }
