@@ -85,5 +85,10 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
             this.Close();
             form.ShowDialog();
         }
+
+        private void chart1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

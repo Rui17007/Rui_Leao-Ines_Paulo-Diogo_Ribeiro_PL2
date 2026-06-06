@@ -26,8 +26,8 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
             var utilizador = new Utilizador
             {
                 NomeUtilizador = "ines",
-                Nome = "Inês Silva",
-                Password = HashPassword("ines123"),
+                Nome = "Inês Duivenvoorden",
+                Password = HashPassword("ines"),
                 Nif = "987654321",
                 Email = "ines@email.com"
             };
@@ -100,12 +100,15 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
 
 
 
+            int anoAlvo = DateTime.Now.Year;
+            DateTime dataFevereiro = new DateTime(anoAlvo, 2, 1);
+
             var orcamento = new Orcamento
             {
-                MesAno = DateTime.Now.ToString("MMMM yyyy"),
+                MesAno = dataFevereiro.ToString("MMMM yyyy", new System.Globalization.CultureInfo("pt-PT")),
                 ValorMax = 500,
                 ValorAtual = 120,
-                DataCriacao = DateTime.Now,
+                DataCriacao = dataFevereiro, 
                 CriadoPor = admin.NomeUtilizador,
                 UtilizadorId = admin.Id
             };
