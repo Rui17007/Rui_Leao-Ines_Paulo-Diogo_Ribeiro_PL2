@@ -83,5 +83,21 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
                 }
             }
         }
+        public object Pesquisar(string texto)
+        {
+            using (var db = new IShopping())
+            {
+                return db.TipoArtigos
+                    .Include(t => t.Artigos)
+                    .Where(t => t.Nome.ToLower().Contains(texto.ToLower()))
+                    .Select(t => new
+                    {
+                        t.Id,
+                        t.Nome,
+                        Quantidade = t.Artigos.Count()
+                    })
+                    .ToList();
+            }
+        }
     }
 }

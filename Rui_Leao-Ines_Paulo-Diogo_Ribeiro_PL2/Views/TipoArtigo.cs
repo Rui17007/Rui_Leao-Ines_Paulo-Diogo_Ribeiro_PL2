@@ -147,7 +147,18 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
 
         private void textPesquisar_TextChanged(object sender, EventArgs e)
         {
+            TipoArtigoController controller = new TipoArtigoController();
 
+            if (string.IsNullOrWhiteSpace(textPesquisar.Text))
+            {
+                dataGridView1.DataSource = controller.Listar();
+            }
+            else
+            {
+                dataGridView1.DataSource = controller.Pesquisar(textPesquisar.Text);
+            }
+
+            dataGridView1.Columns["Id"].Visible = false;
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)

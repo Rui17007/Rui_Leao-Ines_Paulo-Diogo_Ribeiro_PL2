@@ -46,8 +46,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.label5 = new System.Windows.Forms.Label();
             this.btnNovo = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
             this.splitter1 = new System.Windows.Forms.Splitter();
@@ -232,8 +230,6 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.comboBox1);
-            this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.btnNovo);
             this.groupBox1.Controls.Add(this.btnEditar);
             this.groupBox1.Controls.Add(this.splitter1);
@@ -244,24 +240,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Acesso rápido";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
-            // 
-            // comboBox1
-            // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(461, 28);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 24);
-            this.comboBox1.TabIndex = 5;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(391, 32);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(66, 16);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Filtrar por:";
             // 
             // btnNovo
             // 
@@ -329,7 +307,6 @@
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -354,12 +331,10 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnNovo;
         private System.Windows.Forms.Splitter splitter1;
-        private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox textDataAlteracao;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox textDataCriacao;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label labelPercentagem;
         private System.Windows.Forms.TextBox txtValorMaximo;
         private System.Windows.Forms.Button btnEditar;

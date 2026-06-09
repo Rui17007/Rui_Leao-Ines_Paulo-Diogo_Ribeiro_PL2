@@ -46,11 +46,9 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
 
         private void CarregarTabela()
         {
-            OrcamentoController controller =
-                new OrcamentoController();
+            OrcamentoController controller = new OrcamentoController();
 
-            dataGridView1.DataSource =
-                controller.Listar();
+            dataGridView1.DataSource = controller.Listar();
 
             dataGridView1.Columns["Id"].Visible = false;
         }
@@ -108,8 +106,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                     "MMMM yyyy",
                     new System.Globalization.CultureInfo("pt-PT"));
 
-            txtCriadoPor.Text =
-                Sessao.UtilizadorAtual.NomeUtilizador;
+            txtCriadoPor.Text = Sessao.UtilizadorAtual.NomeUtilizador;
 
             textAlteradoPor.Text = "";
 
@@ -160,29 +157,19 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            OrcamentoController controller =
-        new OrcamentoController();
+            OrcamentoController controller = new OrcamentoController();
 
-            float valor =
-                Convert.ToSingle(txtValorMaximo.Text);
+            float valor = Convert.ToSingle(txtValorMaximo.Text);
 
             if (modoEdicao)
             {
-                controller.Editar(
-                idSelecionado,
-                valor,
-                Sessao.UtilizadorAtual
-                );  
+                controller.Editar(idSelecionado, valor, Sessao.UtilizadorAtual);  
 
                 MessageBox.Show("Orçamento editado");
             }
             else
             {
-                bool sucesso =
-                    controller.Adicionar(
-                        valor,
-                        Sessao.UtilizadorAtual
-                    );
+                bool sucesso = controller.Adicionar(valor, Sessao.UtilizadorAtual);
 
                 if (sucesso)
                 {
@@ -190,8 +177,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                 }
                 else
                 {
-                    MessageBox.Show(
-                        "Já existe um orçamento este mês");
+                    MessageBox.Show("Já existe um orçamento este mês");
 
                     return;
                 }
@@ -207,17 +193,13 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
         {
             if (orcamentoOriginal != null)
             {
-                txtValorMaximo.Text =
-                    orcamentoOriginal.ValorMax.ToString("0.00");
+                txtValorMaximo.Text = orcamentoOriginal.ValorMax.ToString("0.00");
 
-                txtCriadoPor.Text =
-                    orcamentoOriginal.CriadoPor;
+                txtCriadoPor.Text = orcamentoOriginal.CriadoPor;
 
-                textDataCriacao.Text =
-                    orcamentoOriginal.MesAno;
+                textDataCriacao.Text = orcamentoOriginal.MesAno;
 
-                textAlteradoPor.Text =
-                    orcamentoOriginal.AlteradoPor;
+                textAlteradoPor.Text = orcamentoOriginal.AlteradoPor;
 
                 if (orcamentoOriginal.DataAlteracao != null)
                 {
@@ -231,9 +213,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                     textDataAlteracao.Text = "";
                 }
 
-                AtualizarBarra(
-                    orcamentoOriginal.ValorAtual,
-                    orcamentoOriginal.ValorMax);
+                AtualizarBarra(orcamentoOriginal.ValorAtual, orcamentoOriginal.ValorMax);
             }
 
             txtValorMaximo.Enabled = false;
@@ -250,23 +230,17 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                         dataGridView1.Rows[e.RowIndex]
                         .Cells["Id"].Value);
 
-                OrcamentoController controller =
-                    new OrcamentoController();
+                OrcamentoController controller = new OrcamentoController();
 
-                orcamentoOriginal =
-                    controller.Procurar(idSelecionado);
+                orcamentoOriginal = controller.Procurar(idSelecionado);
 
-                txtValorMaximo.Text =
-                    orcamentoOriginal.ValorMax.ToString("0.00");
+                txtValorMaximo.Text = orcamentoOriginal.ValorMax.ToString("0.00");
 
-                txtCriadoPor.Text =
-                    orcamentoOriginal.CriadoPor;
+                txtCriadoPor.Text = orcamentoOriginal.CriadoPor;
 
-                textDataCriacao.Text =
-                    orcamentoOriginal.MesAno;
+                textDataCriacao.Text = orcamentoOriginal.MesAno;
 
-                textAlteradoPor.Text =
-                    orcamentoOriginal.AlteradoPor;
+                textAlteradoPor.Text = orcamentoOriginal.AlteradoPor;
 
                 if (orcamentoOriginal.DataAlteracao != null)
                 {
@@ -285,12 +259,9 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                     orcamentoOriginal.ValorMax);
             }
         }
-        private void AtualizarBarra(
-    float gasto,
-    float maximo)
+        private void AtualizarBarra(float gasto,float maximo)
         {
-            int percentagem =
-                (int)((gasto / maximo) * 100);
+            int percentagem = (int)((gasto / maximo) * 100);
 
             if (percentagem > 100)
             {
@@ -307,27 +278,16 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                 falta = 0;
             }
 
-            labelPercentagem.Text =
-    percentagem + "% • " +
-    gasto.ToString("0.00") +
-    " / " +
-    maximo.ToString("0.00") +
-    " €";
-        }
+            labelPercentagem.Text = percentagem + "% • " + gasto.ToString("0.00") + " / " + maximo.ToString("0.00") + " €";}
 
         public float CalcularGastoMesAtual()
         {
             using (var db = new IShopping())
             {
-                string mesAtual =
-                    DateTime.Now.ToString(
-                        "MMMM yyyy",
-                        new System.Globalization.CultureInfo("pt-PT"));
+                string mesAtual = DateTime.Now.ToString("MMMM yyyy",new System.Globalization.CultureInfo("pt-PT"));
 
                 Models.Orcamento orcamento =
-    db.Orcamentos
-    .FirstOrDefault(o =>
-        o.MesAno == mesAtual);
+                    db.Orcamentos.FirstOrDefault(o => o.MesAno == mesAtual);
 
                 if (orcamento != null)
                 {

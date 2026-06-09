@@ -115,21 +115,18 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
 
             context.Orcamentos.Add(orcamento);
 
-            context.SaveChanges();
-
-
-
-
-
-            var compra = new Compra
+            DateTime dataAgora = DateTime.Now;
+            var orcamentoAtual = new Orcamento
             {
-                Nome = "Compras do Mês",
-                DataCriacao = DateTime.Now,
-                DataEdicao = DateTime.Now,
+                MesAno = dataAgora.ToString("MMMM yyyy", new System.Globalization.CultureInfo("pt-PT")),
+                ValorMax = 500, 
+                ValorAtual = 0, 
+                DataCriacao = dataAgora,
+                CriadoPor = admin.NomeUtilizador,
                 UtilizadorId = admin.Id
             };
+            context.Orcamentos.Add(orcamentoAtual);
 
-            context.Compras.Add(compra);
 
             context.SaveChanges();
 
@@ -137,28 +134,13 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
 
 
 
-            var item1 = new ItemPrevisto
-            {
-                Preco = 1.50f,
-                QuantidadeAdquirida = 2,
-                QuantidadePrevista = 3,
-                ArtigoId = arroz.Id,
-                CompraId = compra.Id
-            };
 
-            var item2 = new ItemNaoPrevisto
-            {
-                Preco = 0.99f,
-                QuantidadeAdquirida = 1,
-                Observacoes = "Promoção",
-                ArtigoId = leite.Id,
-                CompraId = compra.Id
-            };
+            
 
-            context.Itens.Add(item1);
-            context.Itens.Add(item2);
 
-            context.SaveChanges();
+
+
+
 
             base.Seed(context);
         }

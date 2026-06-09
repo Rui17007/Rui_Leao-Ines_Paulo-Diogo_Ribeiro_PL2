@@ -59,14 +59,22 @@
   <ItemGroup>
     <Compile Include="AppDbInitializer.cs" />
     <Compile Include="Controllers\ArtigoController.cs" />
+<<<<<<< HEAD
     <Compile Include="Controllers\ExportacaoController.cs" />
+=======
+    <Compile Include="Controllers\CompraController.cs" />
+    <Compile Include="Controllers\EstatisticasController.cs" />
+    <Compile Include="Controllers\ItemController.cs" />
+>>>>>>> b7e5c60 (Projeto completo sem Read.Me)
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\OrcamentoController.cs" />
     <Compile Include="Controllers\RegistarController.cs" />
+    <Compile Include="Controllers\SugestoesController.cs" />
     <Compile Include="Controllers\TipoArtigoController.cs" />
     <Compile Include="IShopping.cs" />
     <Compile Include="Models\Artigo.cs" />
     <Compile Include="Models\Compra.cs" />
+    <Compile Include="Models\ExportacaoCompraCSV.cs" />
     <Compile Include="Models\Item.cs" />
     <Compile Include="Models\ItemNaoPrevisto.cs" />
     <Compile Include="Models\ItemPrevisto.cs" />
@@ -80,6 +88,15 @@
     <Compile Include="Views\Artigo.Designer.cs">
       <DependentUpon>Artigo.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Include="Views\Criar_Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Criar_Editar.Designer.cs">
+      <DependentUpon>Criar_Editar.cs</DependentUpon>
+    </Compile>
+>>>>>>> b7e5c60 (Projeto completo sem Read.Me)
     <Compile Include="Views\Estatisticas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,17 +123,35 @@
     <Compile Include="Views\MenuPrincipal.Designer.cs">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\ModoCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ModoCompra.Designer.cs">
+      <DependentUpon>ModoCompra.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\Orcamento.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Views\Orcamento.Designer.cs">
       <DependentUpon>Orcamento.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\Planeamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Planeamento.Designer.cs">
+      <DependentUpon>Planeamento.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\Registar.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Views\Registar.Designer.cs">
       <DependentUpon>Registar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sugestoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sugestoes.Designer.cs">
+      <DependentUpon>Sugestoes.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\TipoArtigo.cs">
       <SubType>Form</SubType>
@@ -136,6 +171,12 @@
     <EmbeddedResource Include="Views\Artigo.resx">
       <DependentUpon>Artigo.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
+=======
+    <EmbeddedResource Include="Views\Criar_Editar.resx">
+      <DependentUpon>Criar_Editar.cs</DependentUpon>
+    </EmbeddedResource>
+>>>>>>> b7e5c60 (Projeto completo sem Read.Me)
     <EmbeddedResource Include="Views\Estatisticas.resx">
       <DependentUpon>Estatisticas.cs</DependentUpon>
     </EmbeddedResource>
@@ -148,11 +189,20 @@
     <EmbeddedResource Include="Views\MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\ModoCompra.resx">
+      <DependentUpon>ModoCompra.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Orcamento.resx">
       <DependentUpon>Orcamento.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\Planeamento.resx">
+      <DependentUpon>Planeamento.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\Registar.resx">
       <DependentUpon>Registar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sugestoes.resx">
+      <DependentUpon>Sugestoes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\TipoArtigo.resx">
       <DependentUpon>TipoArtigo.cs</DependentUpon>

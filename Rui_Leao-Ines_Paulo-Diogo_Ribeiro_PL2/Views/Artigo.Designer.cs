@@ -118,7 +118,7 @@
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(75, 23);
             this.btnCancelar.TabIndex = 4;
-            this.btnCancelar.Text = "Cancelar";
+            this.btnCancelar.Text = "Limpar";
             this.btnCancelar.UseVisualStyleBackColor = true;
             this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
@@ -216,6 +216,7 @@
             this.textPesquisar.Name = "textPesquisar";
             this.textPesquisar.Size = new System.Drawing.Size(219, 22);
             this.textPesquisar.TabIndex = 1;
+            this.textPesquisar.TextChanged += new System.EventHandler(this.textPesquisar_TextChanged);
             // 
             // btnNovo
             // 

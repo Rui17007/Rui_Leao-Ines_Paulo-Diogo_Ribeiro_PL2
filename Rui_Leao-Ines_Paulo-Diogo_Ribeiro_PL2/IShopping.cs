@@ -15,7 +15,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
         public DbSet<Artigo> Artigos { get; set; }
         public DbSet<Compra> Compras { get; set; }
         public DbSet<Item> Itens { get; set; }
-        public DbSet<ItemNaoPrevisto> IntensNaoPrevistos { get; set; }
+        public DbSet<ItemNaoPrevisto> ItensNaoPrevistos { get; set; }
         public DbSet<ItemPrevisto> ItemPrevistos { get; set; }
         public DbSet<Orcamento> Orcamentos { get; set; }
 

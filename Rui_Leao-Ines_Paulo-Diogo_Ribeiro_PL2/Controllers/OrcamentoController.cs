@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Models;
 using System.Data.Entity;
+using System.Globalization;
 
 namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
 {
@@ -15,6 +16,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
             using (var db = new IShopping())
             {
                 return db.Orcamentos
+                    .OrderByDescending(o => o.MesAno)  
                     .Select(o => new
                     {
                         o.Id,
@@ -26,15 +28,16 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
                         Gasto = o.ValorAtual,
 
                         Estado =
-    o.ValorAtual >= o.ValorMax
-    ? "Excedido"
-    : o.ValorAtual >= (o.ValorMax * 0.9f)
-        ? "Perto do limite"
-        : "OK"
+                            o.ValorAtual >= o.ValorMax
+                            ? "Excedido"
+                            : o.ValorAtual >= (o.ValorMax * 0.9f)
+                            ? "Perto do limite"
+                            : "OK"
                     })
                     .ToList();
             }
         }
+
 
         public bool Adicionar(
     float valorMax,
@@ -43,7 +46,9 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
             using (var db = new IShopping())
             {
                 string mesAno =
-                    DateTime.Now.ToString("MMMM yyyy");
+    DateTime.Now.ToString(
+        "MMMM yyyy",
+        new System.Globalization.CultureInfo("pt-PT"));
 
                 bool existe =
                     db.Orcamentos.Any(o =>
@@ -112,6 +117,34 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
             {
                 return db.Orcamentos
                     .FirstOrDefault(o => o.Id == id);
+            }
+        }
+
+        public float DinheiroMax()
+        {
+            string mesAno = DateTime.Now.ToString(
+                "MMMM yyyy",
+                new CultureInfo("pt-PT"));
+
+            using (var db = new IShopping())
+            {
+                return db.Orcamentos
+                    .FirstOrDefault(o => o.MesAno == mesAno)?
+                    .ValorMax ?? 0;
+            }
+        }
+
+        public float DinheiroAtual()
+        {
+            string mesAno = DateTime.Now.ToString(
+                "MMMM yyyy",
+                new CultureInfo("pt-PT"));
+
+            using (var db = new IShopping())
+            {
+                return db.Orcamentos
+                    .FirstOrDefault(o => o.MesAno == mesAno)?
+                    .ValorAtual ?? 0;
             }
         }
     }

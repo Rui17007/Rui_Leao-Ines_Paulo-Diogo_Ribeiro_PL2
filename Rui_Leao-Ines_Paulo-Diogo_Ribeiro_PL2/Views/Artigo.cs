@@ -58,17 +58,13 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
         {
             if (e.RowIndex >= 0)
             {
-                DataGridViewRow row =
-                    dataGridView1.Rows[e.RowIndex];
+                DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
 
-                txtId.Text =
-                    row.Cells["Id"].Value.ToString();
+                txtId.Text = row.Cells["Id"].Value.ToString();
 
-                txtNome.Text =
-                    row.Cells["Nome"].Value.ToString();
+                txtNome.Text = row.Cells["Nome"].Value.ToString();
 
-                comboTipoArtigo.SelectedValue =
-                    row.Cells["TipoArtigoId"].Value;
+                comboTipoArtigo.SelectedValue = row.Cells["TipoArtigoId"].Value;
             }
         }
 
@@ -111,19 +107,13 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                 if (txtId.Text != "")
                 {
                     DialogResult resultado =
-                        MessageBox.Show(
-                            "Deseja apagar este artigo?",
-                            "Confirmação",
-                            MessageBoxButtons.YesNo
-                        );
+                        MessageBox.Show("Deseja apagar este artigo?", "Confirmação",  MessageBoxButtons.YesNo);
 
                     if (resultado == DialogResult.Yes)
                     {
-                        ArtigoController controller =
-                            new ArtigoController();
+                        ArtigoController controller = new ArtigoController();
 
-                        controller.Apagar(
-                            Convert.ToInt32(txtId.Text));
+                        controller.Apagar( Convert.ToInt32(txtId.Text));
 
                         CarregarTabela();
 
@@ -171,10 +161,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
 
                 if (modoEdicao)
                 {
-                    bool sucesso = controller.Editar(
-                        Convert.ToInt32(txtId.Text),
-                        txtNome.Text,
-                        Convert.ToInt32(comboTipoArtigo.SelectedValue)
+                    bool sucesso = controller.Editar(Convert.ToInt32(txtId.Text),  txtNome.Text, Convert.ToInt32(comboTipoArtigo.SelectedValue)
                     );
 
                     if (sucesso)
@@ -190,9 +177,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                 }
                 else
                 {
-                    bool sucesso = controller.Adicionar(
-                        txtNome.Text,
-                        Convert.ToInt32(comboTipoArtigo.SelectedValue)
+                    bool sucesso = controller.Adicionar( txtNome.Text, Convert.ToInt32(comboTipoArtigo.SelectedValue)
                     );
 
                     if (sucesso)
@@ -227,11 +212,9 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
 
         private void CarregarFiltros()
         {
-            ArtigoController controller =
-                new ArtigoController();
+            ArtigoController controller = new ArtigoController();
 
-            List<Models.TipoArtigo> lista =
-                controller.ListarTipos();
+            List<Models.TipoArtigo> lista = controller.ListarTipos();
 
             lista.Insert(0, new Models.TipoArtigo
             {
@@ -251,21 +234,17 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
         {
             if (comboFiltros.SelectedItem != null)
             {
-                int tipoId =
-                    ((Models.TipoArtigo)comboFiltros.SelectedItem).Id;
+                int tipoId = ((Models.TipoArtigo)comboFiltros.SelectedItem).Id;
 
-                ArtigoController controller =
-                    new ArtigoController();
+                ArtigoController controller = new ArtigoController();
 
                 if (tipoId == 0)
                 {
-                    dataGridView1.DataSource =
-                        controller.Listar();
+                    dataGridView1.DataSource = controller.Listar();
                 }
                 else
                 {
-                    dataGridView1.DataSource =
-                        controller.FiltrarPorTipo(tipoId);
+                    dataGridView1.DataSource = controller.FiltrarPorTipo(tipoId);
                 }
 
                 if (dataGridView1.Columns["TipoArtigoId"] != null)
@@ -273,6 +252,23 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
                     dataGridView1.Columns["TipoArtigoId"].Visible = false;
                 }
             }
+        }
+
+        private void textPesquisar_TextChanged(object sender, EventArgs e)
+        {
+            ArtigoController controller = new ArtigoController();
+
+            if (string.IsNullOrWhiteSpace(textPesquisar.Text))
+            {
+                dataGridView1.DataSource = controller.Listar();
+            }
+            else
+            {
+                dataGridView1.DataSource = controller.Pesquisar(textPesquisar.Text);
+            }
+
+            dataGridView1.Columns["Id"].Visible = false;
+            dataGridView1.Columns["TipoArtigoId"].Visible = false;
         }
     }
 }

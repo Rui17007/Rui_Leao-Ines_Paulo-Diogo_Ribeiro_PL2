@@ -17,12 +17,14 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
         public Registar()
         {
             InitializeComponent();
+            txtNif.MaxLength = 9;
         }
 
         private void Registar_Load(object sender, EventArgs e)
         {
 
         }
+       
 
         private string HashPassword(string password)
         {
@@ -54,17 +56,30 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
             string nif = txtNif.Text;
 
             // Verificar campos vazios
-            if (string.IsNullOrEmpty(txtUsername.Text) ||
-                string.IsNullOrEmpty(txtNome.Text) ||
-                string.IsNullOrEmpty(txtEmail.Text) ||
-                string.IsNullOrEmpty(txtPassword.Text) ||
-                string.IsNullOrEmpty(txtNif.Text))
+            if (string.IsNullOrEmpty(nomeUtilizador) ||
+                string.IsNullOrEmpty(nome) ||
+                string.IsNullOrEmpty(email) ||
+                string.IsNullOrEmpty(password) ||
+                string.IsNullOrEmpty(nif))
             {
-                MessageBox.Show(
-                    "Por favor escreva em todos os campos obrigatorios"
-                );
-
+                MessageBox.Show("Por favor escreva em todos os campos obrigatórios.");
                 return;
+            }
+
+            // Verificar NIF
+            if (nif.Length != 9)
+            {
+                MessageBox.Show("O NIF deve ter 9 dígitos.");
+                return;
+            }
+
+            foreach (char c in nif)
+            {
+                if (c < '0' || c > '9')
+                {
+                    MessageBox.Show("O NIF só pode conter números.");
+                    return;
+                }
             }
 
             // Encriptar password
@@ -91,7 +106,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
             }
             else
             {
-                MessageBox.Show("Dados invalidos");
+                MessageBox.Show("Dados inválidos.");
             }
         }
 
@@ -106,6 +121,11 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views
         }
 
         private void txtNome_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtNif_TextChanged(object sender, EventArgs e)
         {
 
         }
