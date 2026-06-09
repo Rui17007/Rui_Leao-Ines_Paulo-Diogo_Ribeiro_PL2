@@ -30,7 +30,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Models
 
         public DateTime DataCriacao { get; set; }
 
-        public DateTime DataEdicao { get; set; }
+        public DateTime DataEdicao { get; set; }    
 
         public int UtilizadorId { get; set; }
 

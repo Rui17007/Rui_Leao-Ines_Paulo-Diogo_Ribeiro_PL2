@@ -6,22 +6,50 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
 {
     public class RegistarController
     {
-        public bool RegistarUtilizador(
-            string nomeUtilizador,
-            string nome,
-            string password,
-            string nif,
-            string email)
+        private bool ValidarNIF(string nif)
+        {
+            // Verifica se tem 9 dígitos e se são todos números
+            if (string.IsNullOrWhiteSpace(nif) || nif.Length != 9 || !nif.All(char.IsDigit))
+            {
+                return false;
+            }
+
+            int soma = 0;
+
+            for (int i = 0; i < 8; i++)
+            {
+                soma += (nif[i] - '0') * (9 - i);
+            }
+
+            int resto = soma % 11;
+            int digitoControlo = resto < 2 ? 0 : 11 - resto;
+
+            return digitoControlo == (nif[8] - '0');
+        }
+
+        public bool RegistarUtilizador( string nomeUtilizador,  string nome,  string password, string nif, string email)
         {
             using (var db = new IShopping())
             {
-                // Verificar se username ou email já existem
-                if (db.Utilizadores.Any(u =>
-                    u.NomeUtilizador == nomeUtilizador ||
-                    u.Email == email))
+                // Verificar se o NIF é válido
+                if (!ValidarNIF(nif))
                 {
                     MessageBox.Show(
-                        "Username ou Email já estão em uso!",
+                        "O NIF introduzido não é válido!",
+                        "Erro"
+                    );
+
+                    return false;
+                }
+
+                // Verificar se username, email ou nif já existem
+                if (db.Utilizadores.Any(u =>
+                    u.NomeUtilizador == nomeUtilizador ||
+                    u.Email == email ||
+                    u.Nif == nif))
+                {
+                    MessageBox.Show(
+                        "Username, Email ou NIF já estão em uso!",
                         "Erro"
                     );
 

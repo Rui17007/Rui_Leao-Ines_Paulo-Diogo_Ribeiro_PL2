@@ -40,11 +40,9 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
             {
                 nome = nome.Trim();
 
-                nome = char.ToUpper(nome[0]) +
-                       nome.Substring(1).ToLower();
+                nome = char.ToUpper(nome[0]) + nome.Substring(1).ToLower();
 
-                bool existe = db.Artigos.Any(a =>
-                    a.Nome.ToLower() == nome.ToLower());
+                bool existe = db.Artigos.Any(a => a.Nome.ToLower() == nome.ToLower());
 
                 if (existe)
                 {
@@ -77,9 +75,7 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
                 nome = char.ToUpper(nome[0]) +
                        nome.Substring(1).ToLower();
 
-                bool existe = db.Artigos.Any(a =>
-                    a.Nome.ToLower() == nome.ToLower()
-                    && a.Id != id);
+                bool existe = db.Artigos.Any(a => a.Nome.ToLower() == nome.ToLower() && a.Id != id);
 
                 if (existe)
                 {
@@ -135,5 +131,23 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Controllers
                     .ToList();
             }
         }
+        public object Pesquisar(string texto)
+        {
+            using (var db = new IShopping())
+            {
+                return db.Artigos
+                    .Include(a => a.TipoArtigo)
+                    .Where(a => a.Nome.ToLower().Contains(texto.ToLower()))
+                    .Select(a => new
+                    {
+                        a.Id,
+                        a.Nome,
+                        Tipo = a.TipoArtigo.Nome,
+                        a.TipoArtigoId
+                    })
+                    .ToList();
+            }
+        }
     }
+    
 }

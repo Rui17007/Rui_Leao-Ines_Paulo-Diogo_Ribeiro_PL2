@@ -26,8 +26,8 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
             var utilizador = new Utilizador
             {
                 NomeUtilizador = "ines",
-                Nome = "Inês Silva",
-                Password = HashPassword("ines123"),
+                Nome = "Inês Duivenvoorden",
+                Password = HashPassword("ines"),
                 Nif = "987654321",
                 Email = "ines@email.com"
             };
@@ -100,33 +100,33 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
 
 
 
+            int anoAlvo = DateTime.Now.Year;
+            DateTime dataFevereiro = new DateTime(anoAlvo, 2, 1);
+
             var orcamento = new Orcamento
             {
-                MesAno = DateTime.Now.ToString("MMMM yyyy"),
+                MesAno = dataFevereiro.ToString("MMMM yyyy", new System.Globalization.CultureInfo("pt-PT")),
                 ValorMax = 500,
                 ValorAtual = 120,
-                DataCriacao = DateTime.Now,
+                DataCriacao = dataFevereiro, 
                 CriadoPor = admin.NomeUtilizador,
                 UtilizadorId = admin.Id
             };
 
             context.Orcamentos.Add(orcamento);
 
-            context.SaveChanges();
-
-
-
-
-
-            var compra = new Compra
+            DateTime dataAgora = DateTime.Now;
+            var orcamentoAtual = new Orcamento
             {
-                Nome = "Compras do Mês",
-                DataCriacao = DateTime.Now,
-                DataEdicao = DateTime.Now,
+                MesAno = dataAgora.ToString("MMMM yyyy", new System.Globalization.CultureInfo("pt-PT")),
+                ValorMax = 500, 
+                ValorAtual = 0, 
+                DataCriacao = dataAgora,
+                CriadoPor = admin.NomeUtilizador,
                 UtilizadorId = admin.Id
             };
+            context.Orcamentos.Add(orcamentoAtual);
 
-            context.Compras.Add(compra);
 
             context.SaveChanges();
 
@@ -134,28 +134,13 @@ namespace Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2
 
 
 
-            var item1 = new ItemPrevisto
-            {
-                Preco = 1.50f,
-                QuantidadeAdquirida = 2,
-                QuantidadePrevista = 3,
-                ArtigoId = arroz.Id,
-                CompraId = compra.Id
-            };
 
-            var item2 = new ItemNaoPrevisto
-            {
-                Preco = 0.99f,
-                QuantidadeAdquirida = 1,
-                Observacoes = "Promoção",
-                ArtigoId = leite.Id,
-                CompraId = compra.Id
-            };
+            
 
-            context.Itens.Add(item1);
-            context.Itens.Add(item2);
 
-            context.SaveChanges();
+
+
+
 
             base.Seed(context);
         }

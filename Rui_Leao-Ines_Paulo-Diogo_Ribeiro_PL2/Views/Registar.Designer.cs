@@ -82,6 +82,7 @@
             this.txtNif.Name = "txtNif";
             this.txtNif.Size = new System.Drawing.Size(100, 22);
             this.txtNif.TabIndex = 1;
+            this.txtNif.TextChanged += new System.EventHandler(this.txtNif_TextChanged);
             // 
             // txtUsername
             // 
