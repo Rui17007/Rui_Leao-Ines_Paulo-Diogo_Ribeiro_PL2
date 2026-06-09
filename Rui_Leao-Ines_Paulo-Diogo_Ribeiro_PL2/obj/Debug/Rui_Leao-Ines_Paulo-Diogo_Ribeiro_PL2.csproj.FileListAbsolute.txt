@@ -1,0 +1,69 @@
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe.config
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.pdb
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.dll
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.xml
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Properties.Resources.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Artigo.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Criar_Editar.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Login.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.MenuPrincipal.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Orcamento.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Planeamento.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Registar.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.TipoArtigo.resources
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.GenerateResource.cache
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao.113B4352.Up2Date
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.pdb
+C:\Users\diogo\Documents\gitadahardcor\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe.config
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe.config
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.pdb
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.dll
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.xml
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe.config
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Properties.Resources.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Artigo.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Criar_Editar.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Login.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.MenuPrincipal.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Orcamento.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Planeamento.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Registar.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.TipoArtigo.resources
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.GenerateResource.cache
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao.113B4352.Up2Date
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe
+C:\Users\diogo\Documents\gitadahardcor - Cópia 2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.pdb
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe.config
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.pdb
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.dll
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.xml
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.AssemblyReference.cache
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe.config
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Properties.Resources.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Artigo.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Criar_Editar.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Login.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.MenuPrincipal.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Orcamento.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Planeamento.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.Registar.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao_Ines_Paulo_Diogo_Ribeiro_PL2.Views.TipoArtigo.resources
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.GenerateResource.cache
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao.113B4352.Up2Date
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.exe
+C:\Users\diogo\Documents\dadef\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2\obj\Debug\Rui_Leao-Ines_Paulo-Diogo_Ribeiro_PL2.pdb
